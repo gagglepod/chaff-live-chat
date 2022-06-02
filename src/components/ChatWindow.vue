@@ -61,7 +61,7 @@ export default {
     margin-right: 6px;
   }
   .messages {
-    max-height: 400px;
+    max-height: 600px;
     overflow: auto;
   }
 </style>
